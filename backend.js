@@ -1,9 +1,6 @@
 const {execSync} = require('child_process');
 const fs = require("fs");
 const dotenv = require('dotenv');
-const flash = require('express-flash');
-const request = require('request');
-const session = require('express-session');
 const ques = require('./question_status.json')
 dotenv.config();
 
@@ -16,14 +13,6 @@ router.use(cors())
 
 router.use(express.static(__dirname + '/public'));
 
-
-router.use(session({
-    secret: 'my secret key',
-    resave: false,
-    saveUninitialized: false,
-}));
-
-router.use(flash());
 
 
 function execute(key, program, l) {
@@ -121,7 +110,7 @@ function execute(key, program, l) {
 
 // console.log(execute("4692", "A.cpp", "cpp"))
 
-router.post('/', async (req, res) => {
+router.post('/',(req, res) => {
     const program = req.body.program
     const key = req.body.key
     const language = req.body.language
@@ -136,7 +125,7 @@ router.post('/', async (req, res) => {
     })
 
     let status = ques;
-    if (status[id] !== "AC") {
+    if (status[id].status !== "AC") {
         status[id].status = r
     } else {
         alert("Verdict on previous question:" + r)

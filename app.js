@@ -57,27 +57,31 @@ app.get('/questions', function(req, res){
 
 
 app.get('/ques/:id', function(req, res){
-    let msg = fs.readFileSync('msg.json', 'utf8');
-    msg = JSON.parse(msg)
-
-    if (msg !== 'error'){
-        msg = msg.result
-    }
-    else{
-        msg = ''
-    }
-
-    fs.writeFileSync('./msg.json', JSON.stringify('error'), function(err){
-        console.log('saved')
-    })
-
+    setTimeout(() => {
     if(cred.length != 0) {
+        let msg = fs.readFileSync('msg.json', 'utf8');
+        msg = JSON.parse(msg)
+
+        if (msg !== 'error'){
+            console.log(1)
+            msg = msg.result
+        }
+        else{
+            console.log(2)
+            msg = ''
+        }
+
+        fs.writeFileSync('./msg.json', JSON.stringify('error'), function(err){
+            console.log('saved')
+        })
+
         const p = questions[parseInt(req.params.id)].path
         res.render('ques', {path: p, id: req.params.id, msg: msg})
     }
     else {
         res.redirect('/')
     }
+    }, 2000)
 })
 
 app.post('/', function(req, res){
@@ -87,7 +91,8 @@ app.post('/', function(req, res){
     let data = {
         school: req.body.school,
         name1: req.body.name1,
-        name2: req.body.name2
+        name2: req.body.name2,
+        time: Date.now().toString()
     }
     // store in data.json
     fs.writeFile('./login.json', JSON.stringify(data), function(err){
