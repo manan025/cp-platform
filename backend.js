@@ -30,16 +30,6 @@ function execute(key, program, l) {
     let stdout;
     let error;
     try {
-        const ext = l === 'py3' ? '.py' : '.cpp';
-        fs.writeFile("logs/" + Date.now().toString() + ext, fs.readFileSync(program, 'utf8'), function (err) {
-            if (err) {
-                return console.log(err);
-            }
-        });
-    } catch (e) {
-        console.log(e);
-    }
-    try {
         if (l === "py3") {
             fs.readdirSync("input/" + key).forEach(file => {
                 try {
@@ -91,7 +81,7 @@ function execute(key, program, l) {
             fs.readdirSync("input/" + key).forEach(file => {
                 try {
                     const start = Date.now()
-                    execSync(`./A.out < input/${key}/${file} > userout/A.out`, {encoding: 'utf8'})
+                    execSync(`A.out < input/${key}/${file} > userout/A.out`, {encoding: 'utf8'})
 
                     const end = Date.now()
                     if (end - start > 2000) {
