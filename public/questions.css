@@ -1,0 +1,57 @@
+body{
+    background-color: #181818;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
+}
+
+table{
+    width: 70%;
+    text-align: center;
+}
+
+th{
+    background-color: #FF6006;
+    color: lightgray;
+    font-variant: small-caps;
+    font-size: 1.35vw;
+    padding: 10px;
+}
+
+td{
+    background-color: lightgray;
+    font-size: 1.2vw;
+    padding: 12px;
+    color: #333;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    opacity: 0.7;
+    transition: 0.1s;
+}
+a:hover{
+    opacity: 1;
+    text-decoration: underline;
+}
+
+img{
+    width: 10%;
+}
+
+#points{
+    background-color: transparent;
+    color: white;
+    text-align: right;
+}
+
+label{
+    font-size: 1.3vw;
+    margin-right: 10px;
+    color: lightgray;
+}
+span{
+    font-size: 1.5vw;
+}

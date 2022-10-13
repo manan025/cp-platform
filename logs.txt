@@ -1,0 +1,1384 @@
+1665474491855 /home/manan/WebstormProjects/cp-judgeA.cpp1665474491871 WA1665474491871 WA WA1665474491871 WA WA WA1665474491871 WA WA WA WA1665474491871 WA WA WA WA WA1665474491871 WA WA WA WA WA WA1665474568520 /home/manan/WebstormProjects/cp-judgeA.cpp1665474568534 WA1665474568534 WA WA1665474568534 WA WA WA1665474568534 WA WA WA WA1665474568534 WA WA WA WA WA1665474568534 WA WA WA WA WA WA1665474568534 WA WA WA WA WA WA Error: Command failed: ./A.out < input/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-005.txt.in: No such file
+
+CE1665474568534 WA WA WA WA WA WA Error: Command failed: ./A.out < input/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-004.txt.in: No such file
+
+CE1665474568534 WA WA WA WA WA WA Error: Command failed: ./A.out < input/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-003.txt.in: No such file
+
+CE1665474568534 WA WA WA WA WA WA Error: Command failed: ./A.out < input/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-002.txt.in: No such file
+
+CE1665474568534 WA WA WA WA WA WA Error: Command failed: ./A.out < input/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-001.txt.in: No such file
+
+CE1665474568534 WA WA WA WA WA WA Error: Command failed: ./A.out < input/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/01-001.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/00-sample-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/00-sample-001.txt.in: No such file
+
+CE1665474615606 /home/manan/WebstormProjects/cp-judgeA.cpp1665474615620 WA1665474615620 WA WA1665474615620 WA WA WA1665474615620 WA WA WA WA1665474615620 WA WA WA WA WA1665474615620 WA WA WA WA WA WA1665474615620 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE1665474615620 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE1665474615620 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE1665474615620 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE1665474615620 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE1665474615620 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/00-sample-001.txt.in: No such file
+
+CE1665474663946 /home/manan/WebstormProjects/cp-judgeA.cpp1665474663959 WA1665474663959 WA WA1665474663959 WA WA WA1665474663959 WA WA WA WA1665474663959 WA WA WA WA WA1665474663959 WA WA WA WA WA WA1665474663959 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE1665474663959 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE1665474663959 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE1665474663959 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE1665474663959 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE1665474663959 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/00-sample-001.txt.in: No such file
+
+CE1665474748639 /home/manan/WebstormProjects/cp-judge/A.cpp1665474748658 WA1665474748658 WA WA1665474748658 WA WA WA1665474748658 WA WA WA WA1665474748658 WA WA WA WA WA1665474748658 WA WA WA WA WA WA1665474748658 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE1665474748658 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE1665474748658 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE1665474748658 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE1665474748658 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE1665474748658 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/00-sample-001.txt.in: No such file
+
+CE1665474778726 /home/manan/WebstormProjects/cp-judge/A.cpp1665474778741 WA1665474778741 WA WA1665474778741 WA WA WA1665474778741 WA WA WA WA1665474778741 WA WA WA WA WA1665474778741 WA WA WA WA WA WA1665474778741 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE1665474778741 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE1665474778741 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE1665474778741 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE1665474778741 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE1665474778741 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/00-sample-001.txt.in: No such file
+
+CE1665474858652 /home/manan/WebstormProjects/cp-judge/A.cpp1665474858675 WA1665474858675 WA WA1665474858675 WA WA WA1665474858675 WA WA WA WA1665474858675 WA WA WA WA WA1665474858675 WA WA WA WA WA WA1665474858675 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE1665474858675 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE1665474858675 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE1665474858675 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE1665474858675 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/00-sample-001.txt.in: No such file
+
+CE1665474858675 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/00-sample-001.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE1665474868779 /home/manan/WebstormProjects/cp-judge/A.cpp1665474868793 WA1665474868793 WA WA1665474868793 WA WA WA1665474868793 WA WA WA WA1665474868793 WA WA WA WA WA1665474868793 WA WA WA WA WA WA1665474868793 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE1665474868793 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE1665474868793 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE1665474868793 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE1665474868793 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/00-sample-001.txt.in: No such file
+
+CE1665474868793 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-004.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-003.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-002.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-001.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/00-sample-001.txt.in: No such file
+
+CE Error: Command failed: ./A.out < input/4692/01-005.txt.in > userout/A.out
+/bin/sh: 1: cannot open input/4692/01-005.txt.in: No such file
+
+CE1665474920310 /home/manan/WebstormProjects/cp-judge/A.cpp1665474920331 WA1665474920331 WA WA1665474920331 WA WA WA1665474920331 WA WA WA WA1665474920331 WA WA WA WA WA1665474920331 WA WA WA WA WA WA1665474920331 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665474920331 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665474920331 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665474920331 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665474920331 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665475037405 /home/manan/WebstormProjects/cp-judge/A.cpp1665475037418 WA1665475037418 WA WA1665475037418 WA WA WA1665475037418 WA WA WA WA1665475037418 WA WA WA WA WA1665475037418 WA WA WA WA WA WA1665475037418 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665475037418 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665475037418 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665475037418 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665475037418 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665475128671 /home/manan/WebstormProjects/cp-judge/A.cpp1665475128683 WA1665475128683 WA WA1665475128683 WA WA WA1665475128683 WA WA WA WA1665475128683 WA WA WA WA WA1665475128683 WA WA WA WA WA WA1665475128683 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665475128683 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665475128683 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665475128683 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665475128683 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665486372732 /home/manan/WebstormProjects/cp-judge/A.cpp1665486372740 WA1665486372740 WA WA1665486372740 WA WA WA1665486372740 WA WA WA WA1665486372740 WA WA WA WA WA1665486372740 WA WA WA WA WA WA1665486372740 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665486372740 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665486372740 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665486372740 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665486372740 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665487647974 /home/manan/WebstormProjects/cp-judge/A.py1665487647983 WA1665487647983 WA WA1665487647983 WA WA WA1665487647983 WA WA WA WA1665487647983 WA WA WA WA WA1665487647983 WA WA WA WA WA WA1665487647983 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487647983 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487647983 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487647983 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487647983 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: g++ /home/manan/WebstormProjects/cp-judge/A.py -o A.out
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py: file format not recognized; treating as linker script
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py:1: syntax error
+collect2: error: ld returned 1 exit status
+ Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+Segmentation fault (core dumped)
+
+CE1665487681332 /home/manan/WebstormProjects/cp-judge/A.py1665487681336 WA1665487681336 WA WA1665487681336 WA WA WA1665487681336 WA WA WA WA1665487681336 WA WA WA WA WA1665487681336 WA WA WA WA WA WA1665487681336 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487681336 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487681336 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487681336 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487681336 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487681336 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE1665487777916 /home/manan/WebstormProjects/cp-judge/A.py1665487777924 WA1665487777924 WA WA1665487777924 WA WA WA1665487777924 WA WA WA WA1665487777924 WA WA WA WA WA1665487777924 WA WA WA WA WA WA1665487777924 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487777924 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487777924 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487777924 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487777924 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487777924 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: g++ /home/manan/WebstormProjects/cp-judge/A.py -o A.out
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py: file format not recognized; treating as linker script
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py:1: syntax error
+collect2: error: ld returned 1 exit status
+ Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487838349 /home/manan/WebstormProjects/cp-judge/A.py1665487838365 WA1665487838365 WA WA1665487838365 WA WA WA1665487838365 WA WA WA WA1665487838365 WA WA WA WA WA1665487838365 WA WA WA WA WA WA1665487838365 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487838365 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487838365 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487838365 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487838365 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487838365 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: g++ /home/manan/WebstormProjects/cp-judge/A.py -o A.out
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py: file format not recognized; treating as linker script
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py:1: syntax error
+collect2: error: ld returned 1 exit status
+ Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487878579 /home/manan/WebstormProjects/cp-judge/A.py1665487878587 WA1665487878587 WA WA1665487878587 WA WA WA1665487878587 WA WA WA WA1665487878587 WA WA WA WA WA1665487878587 WA WA WA WA WA WA1665487878587 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487878587 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487878587 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487878587 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE1665487878587 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE Error: Command failed: g++ /home/manan/WebstormProjects/cp-judge/A.py -o A.out
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py: file format not recognized; treating as linker script
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py:1: syntax error
+collect2: error: ld returned 1 exit status
+ Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665487878587 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE Error: Command failed: g++ /home/manan/WebstormProjects/cp-judge/A.py -o A.out
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py: file format not recognized; treating as linker script
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py:1: syntax error
+collect2: error: ld returned 1 exit status
+ Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665510988692 /home/manan/WebstormProjects/cp-judge/A.py1665510988712 WA1665510988712 WA WA1665510988712 WA WA WA1665510988712 WA WA WA WA1665510988712 WA WA WA WA WA1665510988712 WA WA WA WA WA WA1665510988712 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE1665510988712 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE1665510988712 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665510988712 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665510988712 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665510988712 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: Permission denied
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511038260 /home/manan/WebstormProjects/cp-judge/A.py1665511038280 WA1665511038280 WA WA1665511038280 WA WA WA1665511038280 WA WA WA WA1665511038280 WA WA WA WA WA1665511038280 WA WA WA WA WA WA1665511038280 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511038280 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511038280 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511038280 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511038280 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511038280 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511276487 /home/manan/WebstormProjects/cp-judge/A.py1665511276501 WA1665511276501 WA WA1665511276501 WA WA WA1665511276501 WA WA WA WA1665511276501 WA WA WA WA WA1665511276501 WA WA WA WA WA WA1665511276501 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511276501 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511276501 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511276501 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511276501 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511276501 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511344006 /home/manan/WebstormProjects/cp-judge/A.py1665511344043 WA1665511344043 WA WA1665511344043 WA WA WA1665511344043 WA WA WA WA1665511344043 WA WA WA WA WA1665511344043 WA WA WA WA WA WA1665511344043 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511344043 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511344043 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511344043 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511344043 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511344043 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: g++ /home/manan/WebstormProjects/cp-judge/A.py -o A.out
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py: file format not recognized; treating as linker script
+/usr/bin/ld:/home/manan/WebstormProjects/cp-judge/A.py:1: syntax error
+collect2: error: ld returned 1 exit status
+ Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665511658794 /home/manan/WebstormProjects/cp-judge/A.py 8 WA1665511658794 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 15 WA1665511658794 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 15 WA 21 WA 6 WA 6 WA 19 WA1665511658794 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 15 WA 21 WA 6 WA 6 WA1665511658794 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 15 WA 21 WA1665511658794 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 15 WA 21 WA 6 WA1665511714212 /home/manan/WebstormProjects/cp-judge/A.py 25 WA1665511714212 /home/manan/WebstormProjects/cp-judge/A.py 25 WA 7 WA1665511714212 /home/manan/WebstormProjects/cp-judge/A.py 25 WA 7 WA 25 WA1665511714212 /home/manan/WebstormProjects/cp-judge/A.py 25 WA 7 WA 25 WA 18 WA1665511714212 /home/manan/WebstormProjects/cp-judge/A.py 25 WA 7 WA 25 WA 18 WA 14 WA1665511714212 /home/manan/WebstormProjects/cp-judge/A.py 25 WA 7 WA 25 WA 18 WA 14 WA 19 WA1665511772203 /home/manan/WebstormProjects/cp-judge/A.py 23 WA1665511772203 /home/manan/WebstormProjects/cp-judge/A.py 23 WA 10 WA1665511772203 /home/manan/WebstormProjects/cp-judge/A.py 23 WA 10 WA 19 WA1665511772203 /home/manan/WebstormProjects/cp-judge/A.py 23 WA 10 WA 19 WA 20 WA1665511772203 /home/manan/WebstormProjects/cp-judge/A.py 23 WA 10 WA 19 WA 20 WA 51 WA1665511772203 /home/manan/WebstormProjects/cp-judge/A.py 23 WA 10 WA 19 WA 20 WA 51 WA 18 WA1665511811483 /home/manan/WebstormProjects/cp-judge/A.py 22 WA1665511811483 /home/manan/WebstormProjects/cp-judge/A.py 22 WA 22 WA1665511811483 /home/manan/WebstormProjects/cp-judge/A.py 22 WA 22 WA 19 WA1665511811483 /home/manan/WebstormProjects/cp-judge/A.py 22 WA 22 WA 19 WA 55 WA1665511811483 /home/manan/WebstormProjects/cp-judge/A.py 22 WA 22 WA 19 WA 55 WA 15 WA1665511811483 /home/manan/WebstormProjects/cp-judge/A.py 22 WA 22 WA 19 WA 55 WA 15 WA 15 WA1665511831775 /home/manan/WebstormProjects/cp-judge/A.py 13 WA1665511831775 /home/manan/WebstormProjects/cp-judge/A.py 13 WA 9 WA1665511831775 /home/manan/WebstormProjects/cp-judge/A.py 13 WA 9 WA 6 WA1665511831775 /home/manan/WebstormProjects/cp-judge/A.py 13 WA 9 WA 6 WA 7 WA1665511831775 /home/manan/WebstormProjects/cp-judge/A.py 13 WA 9 WA 6 WA 7 WA 11 WA1665511831775 /home/manan/WebstormProjects/cp-judge/A.py 13 WA 9 WA 6 WA 7 WA 11 WA 7 WA1665511942918 /home/manan/WebstormProjects/cp-judge/A.py 14 WA1665511942918 /home/manan/WebstormProjects/cp-judge/A.py 14 WA 13 WA1665511942918 /home/manan/WebstormProjects/cp-judge/A.py 14 WA 13 WA 7 WA1665511942918 /home/manan/WebstormProjects/cp-judge/A.py 14 WA 13 WA 7 WA 37 WA1665511942918 /home/manan/WebstormProjects/cp-judge/A.py 14 WA 13 WA 7 WA 37 WA 7 WA1665511942918 /home/manan/WebstormProjects/cp-judge/A.py 14 WA 13 WA 7 WA 37 WA 7 WA 26 WA1665512008626 /home/manan/WebstormProjects/cp-judge/A.py 10 WA1665512008626 /home/manan/WebstormProjects/cp-judge/A.py 10 WA 14 WA1665512008626 /home/manan/WebstormProjects/cp-judge/A.py 10 WA 14 WA 11 WA1665512008626 /home/manan/WebstormProjects/cp-judge/A.py 10 WA 14 WA 11 WA 19 WA1665512008626 /home/manan/WebstormProjects/cp-judge/A.py 10 WA 14 WA 11 WA 19 WA 12 WA1665512008626 /home/manan/WebstormProjects/cp-judge/A.py 10 WA 14 WA 11 WA 19 WA 12 WA 23 WA1665512101204 /home/manan/WebstormProjects/cp-judge/A.py 7 WA1665512101204 /home/manan/WebstormProjects/cp-judge/A.py 7 WA 5 WA1665512101204 /home/manan/WebstormProjects/cp-judge/A.py 7 WA 5 WA 10 WA1665512101204 /home/manan/WebstormProjects/cp-judge/A.py 7 WA 5 WA 10 WA 15 WA1665512101204 /home/manan/WebstormProjects/cp-judge/A.py 7 WA 5 WA 10 WA 15 WA 27 WA1665512101204 /home/manan/WebstormProjects/cp-judge/A.py 7 WA 5 WA 10 WA 15 WA 27 WA 27 WA1665512150850 /home/manan/WebstormProjects/cp-judge/A.py 20 WA1665512150850 /home/manan/WebstormProjects/cp-judge/A.py 20 WA 9 WA1665512150850 /home/manan/WebstormProjects/cp-judge/A.py 20 WA 9 WA 5 WA1665512150850 /home/manan/WebstormProjects/cp-judge/A.py 20 WA 9 WA 5 WA 16 WA1665512150850 /home/manan/WebstormProjects/cp-judge/A.py 20 WA 9 WA 5 WA 16 WA 10 WA1665512150850 /home/manan/WebstormProjects/cp-judge/A.py 20 WA 9 WA 5 WA 16 WA 10 WA 9 WA1665512193111 /home/manan/WebstormProjects/cp-judge/A.py 9 WA1665512193111 /home/manan/WebstormProjects/cp-judge/A.py 9 WA 7 WA1665512193111 /home/manan/WebstormProjects/cp-judge/A.py 9 WA 7 WA 7 WA1665512193111 /home/manan/WebstormProjects/cp-judge/A.py 9 WA 7 WA 7 WA 7 WA1665512193111 /home/manan/WebstormProjects/cp-judge/A.py 9 WA 7 WA 7 WA 7 WA 11 WA1665512193111 /home/manan/WebstormProjects/cp-judge/A.py 9 WA 7 WA 7 WA 7 WA 11 WA 9 WA1665512310143 /home/manan/WebstormProjects/cp-judge/A.py 20 WA1665512310143 /home/manan/WebstormProjects/cp-judge/A.py 20 WA 12 WA1665512310143 /home/manan/WebstormProjects/cp-judge/A.py 20 WA 12 WA 9 WA1665512310143 /home/manan/WebstormProjects/cp-judge/A.py 20 WA 12 WA 9 WA 22 WA1665512310143 /home/manan/WebstormProjects/cp-judge/A.py 20 WA 12 WA 9 WA 22 WA 8 WA1665512310143 /home/manan/WebstormProjects/cp-judge/A.py 20 WA 12 WA 9 WA 22 WA 8 WA 29 WA1665512326001 /home/manan/WebstormProjects/cp-judge/A.py 15 WA1665512326001 /home/manan/WebstormProjects/cp-judge/A.py 15 WA 15 WA1665512326001 /home/manan/WebstormProjects/cp-judge/A.py 15 WA 15 WA 22 WA1665512326001 /home/manan/WebstormProjects/cp-judge/A.py 15 WA 15 WA 22 WA 16 WA1665512326001 /home/manan/WebstormProjects/cp-judge/A.py 15 WA 15 WA 22 WA 16 WA 13 WA1665512326001 /home/manan/WebstormProjects/cp-judge/A.py 15 WA 15 WA 22 WA 16 WA 13 WA 21 WA1665512519831 /home/manan/WebstormProjects/cp-judge/A.cpp1665512519852 WA1665512519852 WA WA1665512519852 WA WA WA1665512519852 WA WA WA WA1665512519852 WA WA WA WA WA1665512519852 WA WA WA WA WA WA1665512519852 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665512519852 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665512519852 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665512519852 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665512519852 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665512519852 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665512615246 /home/manan/WebstormProjects/cp-judge/A.cpp1665512615270 WA1665512615270 WA WA1665512615270 WA WA WA1665512615270 WA WA WA WA1665512615270 WA WA WA WA WA1665512615270 WA WA WA WA WA WA1665512615270 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665512615270 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665512615270 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665512615270 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665512615270 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665512615270 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665518596980 /home/manan/WebstormProjects/cp-judge/A.py 7 WA1665518596980 /home/manan/WebstormProjects/cp-judge/A.py 7 WA 7 WA1665518596980 /home/manan/WebstormProjects/cp-judge/A.py 7 WA 7 WA 13 WA1665518596980 /home/manan/WebstormProjects/cp-judge/A.py 7 WA 7 WA 13 WA 24 WA1665518596980 /home/manan/WebstormProjects/cp-judge/A.py 7 WA 7 WA 13 WA 24 WA 12 WA1665518596980 /home/manan/WebstormProjects/cp-judge/A.py 7 WA 7 WA 13 WA 24 WA 12 WA 8 WA1665518667198 /home/manan/WebstormProjects/cp-judge/A.py 12 WA1665518667198 /home/manan/WebstormProjects/cp-judge/A.py 12 WA 10 WA1665518667198 /home/manan/WebstormProjects/cp-judge/A.py 12 WA 10 WA 17 WA1665518667198 /home/manan/WebstormProjects/cp-judge/A.py 12 WA 10 WA 17 WA 6 WA1665518667198 /home/manan/WebstormProjects/cp-judge/A.py 12 WA 10 WA 17 WA 6 WA 36 WA1665518667198 /home/manan/WebstormProjects/cp-judge/A.py 12 WA 10 WA 17 WA 6 WA 36 WA 10 WA1665518727571 /home/manan/WebstormProjects/cp-judge/A.py 8 WA1665518727571 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 5 WA1665518727571 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 5 WA 12 WA1665518727571 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 5 WA 12 WA 13 WA1665518727571 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 5 WA 12 WA 13 WA 13 WA1665518727571 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 5 WA 12 WA 13 WA 13 WA 25 WA1665518808762 /home/manan/WebstormProjects/cp-judge/A.py 12 WA1665518808762 /home/manan/WebstormProjects/cp-judge/A.py 12 WA 8 WA1665518808762 /home/manan/WebstormProjects/cp-judge/A.py 12 WA 8 WA 22 WA1665518808762 /home/manan/WebstormProjects/cp-judge/A.py 12 WA 8 WA 22 WA 5 WA1665518808762 /home/manan/WebstormProjects/cp-judge/A.py 12 WA 8 WA 22 WA 5 WA 15 WA1665518808762 /home/manan/WebstormProjects/cp-judge/A.py 12 WA 8 WA 22 WA 5 WA 15 WA 17 WA1665518837369 /home/manan/WebstormProjects/cp-judge/A.cpp1665518837386 WA1665518837386 WA WA1665518837386 WA WA WA1665518837386 WA WA WA WA1665518837386 WA WA WA WA WA1665518837386 WA WA WA WA WA WA1665518837386 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665518837386 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665518837386 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665518837386 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665518837386 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665518837386 WA WA WA WA WA WA Error: Command failed: ./A.out < input/4692/01-005.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-004.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-003.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-002.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/01-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE Error: Command failed: ./A.out < input/4692/00-sample-001.txt > userout/A.out
+/bin/sh: 1: ./A.out: not found
+
+CE1665518964315 /home/manan/WebstormProjects/cp-judge/A.py 13 WA1665518964315 /home/manan/WebstormProjects/cp-judge/A.py 13 WA 5 WA1665518964315 /home/manan/WebstormProjects/cp-judge/A.py 13 WA 5 WA 13 WA1665518964315 /home/manan/WebstormProjects/cp-judge/A.py 13 WA 5 WA 13 WA 18 WA1665518964315 /home/manan/WebstormProjects/cp-judge/A.py 13 WA 5 WA 13 WA 18 WA 14 WA1665518964315 /home/manan/WebstormProjects/cp-judge/A.py 13 WA 5 WA 13 WA 18 WA 14 WA 9 WA1665519031712 /home/manan/WebstormProjects/cp-judge/A.py 14 WA1665519031712 /home/manan/WebstormProjects/cp-judge/A.py 14 WA 16 WA1665519031712 /home/manan/WebstormProjects/cp-judge/A.py 14 WA 16 WA 16 WA1665519031712 /home/manan/WebstormProjects/cp-judge/A.py 14 WA 16 WA 16 WA 12 WA1665519031712 /home/manan/WebstormProjects/cp-judge/A.py 14 WA 16 WA 16 WA 12 WA 21 WA1665519031712 /home/manan/WebstormProjects/cp-judge/A.py 14 WA 16 WA 16 WA 12 WA 21 WA 11 WA1665519077177 /home/manan/WebstormProjects/cp-judge/A.py 8 WA1665519077177 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 10 WA1665519077177 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 10 WA 23 WA1665519077177 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 10 WA 23 WA 6 WA1665519077177 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 10 WA 23 WA 6 WA 8 WA1665519077177 /home/manan/WebstormProjects/cp-judge/A.py 8 WA 10 WA 23 WA 6 WA 8 WA 42 WA1665573655942 /home/manan/WebstormProjects/cp-judge/A.cpp1665573655955 WA WA WA WA1665573655955 WA WA WA WA WA1665573655955 WA WA WA WA WA WA1665573655955 WA1665573655955 WA WA1665573655955 WA WA WA1665574039542 /home/manan/WebstormProjects/cp-judge/A.cpp1665574041335 WA1665574041335 WA WA1665574041335 WA WA WA1665574041335 WA WA WA WA1665574041335 WA WA WA WA WA1665574041335 WA WA WA WA WA WA1665574337339 /home/manan/WebstormProjects/cp-judge/A.cpp1665574339009 WA1665574339009 WA WA1665574339009 WA WA WA1665574339009 WA WA WA WA1665574339009 WA WA WA WA WA1665574339009 WA WA WA WA WA WA1665574380630 /home/manan/WebstormProjects/cp-judge/A.cpp1665574382672 WA1665574382672 WA WA1665574382672 WA WA WA1665574382672 WA WA WA WA1665574382672 WA WA WA WA WA1665574382672 WA WA WA WA WA WA1665575239946 /home/manan/WebstormProjects/cp-judge/A.cpp1665575244373 WA1665575244373 WA WA1665575244373 WA WA WA1665575244373 WA WA WA WA1665575244373 WA WA WA WA WA1665575244373 WA WA WA WA WA WA1665575363408 A.py 19 WA1665575363408 A.py 19 WA 5 WA1665575363408 A.py 19 WA 5 WA 7 WA 20 WA1665575363408 A.py 19 WA 5 WA 7 WA1665575363408 A.py 19 WA 5 WA 7 WA 20 WA 8 WA1665575363408 A.py 19 WA 5 WA 7 WA 20 WA 8 WA 14 WA1665575573074 A.cpp1665575576426 WA1665575576426 WA WA1665575576426 WA WA WA1665575576426 WA WA WA WA1665575576426 WA WA WA WA WA1665575576426 WA WA WA WA WA WA1665575939649 A.cpp1665575943291 WA1665575943291 WA WA1665575943291 WA WA WA1665575943291 WA WA WA WA1665575943291 WA WA WA WA WA1665575943291 WA WA WA WA WA WA1665575970861 A.cpp1665575974426 WA1665575974426 WA WA1665575974426 WA WA WA1665575974426 WA WA WA WA1665575974426 WA WA WA WA WA1665575974426 WA WA WA WA WA WA1665576250448 A.cpp1665576253620 WA1665576253620 WA WA1665576253620 WA WA WA1665576253620 WA WA WA WA1665576253620 WA WA WA WA WA1665576253620 WA WA WA WA WA WA1665576394648 A.cpp1665576398778 WA1665576398778 WA WA1665576398778 WA WA WA1665576398778 WA WA WA WA1665576398778 WA WA WA WA WA1665576398778 WA WA WA WA WA WA1665576454261 A.cpp1665576457598 WA1665576457598 WA WA1665576457598 WA WA WA1665576457598 WA WA WA WA1665576457598 WA WA WA WA WA1665576457598 WA WA WA WA WA WA1665576745705 A.cpp1665576747452 WA1665576747452 WA WA1665576747452 WA WA WA1665576747452 WA WA WA WA1665576747452 WA WA WA WA WA1665576747452 WA WA WA WA WA WA1665598128591 A.cpp1665598130682 WA1665598130682 WA WA1665598130682 WA WA WA1665598130682 WA WA WA WA1665598130682 WA WA WA WA WA1665598130682 WA WA WA WA WA WA1665598397883 A.cpp1665598400081 WA1665598400081 WA WA1665598400081 WA WA WA1665598400081 WA WA WA WA1665598400081 WA WA WA WA WA1665598400081 WA WA WA WA WA WA1665599090517 A.cpp1665599092894 WA1665599092894 WA WA1665599092894 WA WA WA1665599092894 WA WA WA WA1665599092894 WA WA WA WA WA1665599092894 WA WA WA WA WA WA1665599946021 A.cpp1665599948844 WA1665599948844 WA WA1665599948844 WA WA WA1665599948844 WA WA WA WA1665599948844 WA WA WA WA WA1665599948844 WA WA WA WA WA WA1665600983149 A.cpp1665600991540 WA1665600991540 WA WA1665600991540 WA WA WA1665600991540 WA WA WA WA1665600991540 WA WA WA WA WA1665600991540 WA WA WA WA WA WA1665601215173 A.cpp1665601224446 WA1665601224446 WA WA1665601224446 WA WA WA1665601224446 WA WA WA WA1665601224446 WA WA WA WA WA1665601224446 WA WA WA WA WA WA1665601481378 A.cpp1665601483842 WA1665601483842 WA WA1665601483842 WA WA WA1665601483842 WA WA WA WA1665601483842 WA WA WA WA WA1665601483842 WA WA WA WA WA WA1665601487989 A.cpp1665601490268 WA1665601490268 WA WA1665601490268 WA WA WA1665601490268 WA WA WA WA1665601490268 WA WA WA WA WA1665601490268 WA WA WA WA WA WA1665601617223 A.cpp1665601620091 WA1665601620091 WA WA1665601620091 WA WA WA1665601620091 WA WA WA WA1665601620091 WA WA WA WA WA1665601620091 WA WA WA WA WA WA1665601665443 A.cpp1665601667995 WA1665601667995 WA WA1665601667995 WA WA WA1665601667995 WA WA WA WA1665601667995 WA WA WA WA WA1665601667995 WA WA WA WA WA WA1665601670424 A.cpp1665601673253 WA1665601673253 WA WA1665601673253 WA WA WA1665601673253 WA WA WA WA1665601673253 WA WA WA WA WA1665601673253 WA WA WA WA WA WA1665601731003 A.cpp1665601734468 WA1665601734468 WA WA1665601734468 WA WA WA1665601734468 WA WA WA WA1665601734468 WA WA WA WA WA1665601734468 WA WA WA WA WA WA1665601749139 A.cpp1665601753312 WA1665601753312 WA WA1665601753312 WA WA WA WA1665601753312 WA WA WA1665601753312 WA WA WA WA WA1665601753312 WA WA WA WA WA WA1665601848762 A.cpp1665601852111 WA1665601852111 WA WA1665601852111 WA WA WA1665601852111 WA WA WA WA1665601852111 WA WA WA WA WA1665601852111 WA WA WA WA WA WA1665601865746 A.cpp1665601869594 WA1665601869594 WA WA1665601869594 WA WA WA1665601869594 WA WA WA WA1665601869594 WA WA WA WA WA1665601869594 WA WA WA WA WA WA1665601890982 A.cpp1665601894540 WA1665601894540 WA WA1665601894540 WA WA WA1665601894540 WA WA WA WA1665601894540 WA WA WA WA WA1665601894540 WA WA WA WA WA WA1665601951903 A.cpp1665601953826 WA1665601953826 WA WA1665601953826 WA WA WA1665601953826 WA WA WA WA1665601953826 WA WA WA WA WA1665601953826 WA WA WA WA WA WA1665602178112 A.cpp1665602180004 WA1665602180004 WA WA1665602180004 WA WA WA1665602180004 WA WA WA WA1665602180004 WA WA WA WA WA1665602180004 WA WA WA WA WA WA1665602358364 A.cpp1665602360225 WA1665602360225 WA WA1665602360225 WA WA WA1665602360225 WA WA WA WA1665602360225 WA WA WA WA WA1665602360225 WA WA WA WA WA WA1665602810866 A.cpp1665602814232 WA1665602814232 WA WA1665602814232 WA WA WA1665602814232 WA WA WA WA1665602814232 WA WA WA WA WA1665602814232 WA WA WA WA WA WA1665602978292 A.cpp1665602981480 WA1665602981480 WA WA1665602981480 WA WA WA1665602981480 WA WA WA WA1665602981480 WA WA WA WA WA1665602981480 WA WA WA WA WA WA1665603364831 A.cpp1665603367717 WA1665603367717 WA WA1665603367717 WA WA WA1665603367717 WA WA WA WA1665603367717 WA WA WA WA WA1665603367717 WA WA WA WA WA WA1665603503648 A.cpp1665603507437 WA1665603507437 WA WA1665603507437 WA WA WA1665603507437 WA WA WA WA1665603507437 WA WA WA WA WA1665603507437 WA WA WA WA WA WA1665603601844 A.cpp1665603605215 WA1665603605215 WA WA1665603605215 WA WA WA1665603605215 WA WA WA WA1665603605215 WA WA WA WA WA1665603605215 WA WA WA WA WA WA1665603653396 A.cpp1665603657867 WA1665603657867 WA WA1665603657867 WA WA WA1665603657867 WA WA WA WA1665603657867 WA WA WA WA WA1665603657867 WA WA WA WA WA WA1665603680046 A.cpp1665603684200 WA1665603684200 WA WA1665603684200 WA WA WA1665603684200 WA WA WA WA1665603684200 WA WA WA WA WA1665603684200 WA WA WA WA WA WA1665603832201 A.cpp1665603835740 WA1665603835740 WA WA1665603835740 WA WA WA1665603835740 WA WA WA WA1665603835740 WA WA WA WA WA1665603835740 WA WA WA WA WA WA1665603855531 A.cpp1665603858626 WA1665603858626 WA WA1665603858626 WA WA WA1665603858626 WA WA WA WA1665603858626 WA WA WA WA WA1665603858626 WA WA WA WA WA WA1665603940148 A.cpp1665603943123 WA1665603943123 WA WA1665603943123 WA WA WA1665603943123 WA WA WA WA1665603943123 WA WA WA WA WA1665603943123 WA WA WA WA WA WA1665604061496 A.cpp1665604065130 WA1665604065130 WA WA1665604065130 WA WA WA1665604065130 WA WA WA WA1665604065130 WA WA WA WA WA1665604065130 WA WA WA WA WA WA1665604089882 A.cpp1665604093237 WA1665604093237 WA WA1665604093237 WA WA WA1665604093237 WA WA WA WA1665604093237 WA WA WA WA WA1665604093237 WA WA WA WA WA WA1665604115379 A.cpp1665604118184 WA1665604118184 WA WA1665604118184 WA WA WA1665604118184 WA WA WA WA1665604118184 WA WA WA WA WA1665604118184 WA WA WA WA WA WA1665604195105 A.cpp1665604195159 WA1665604195159 WA WA1665604195159 WA WA WA1665604195159 WA WA WA WA1665604195159 WA WA WA WA WA1665604195159 WA WA WA WA WA WA1665604243809 A.cpp1665604243852 WA1665604243852 WA WA1665604243852 WA WA WA1665604243852 WA WA WA WA1665604243852 WA WA WA WA WA1665604243852 WA WA WA WA WA WA1665604274011 A.cpp1665604274035 WA1665604274035 WA WA1665604274035 WA WA WA1665604274035 WA WA WA WA1665604274035 WA WA WA WA WA1665604274035 WA WA WA WA WA WA

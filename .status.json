@@ -1,0 +1,19 @@
+[
+  {"id": "0", "name": "Flag Game", "points": 100, "difficulty": "Easy", "path": "/prog.pdf", "status": "solved",},
+  {"id":"1", "name": "Color Grid", "points": 100, "difficulty: 'Easy', path": "/", "status": "unsolved"},
+  {"id": "2", "name": "C.O.R.E. Challenges Prez", "points": 100, "difficulty": "Medium", "path": "/", "status": "unsolved", "key": "1920"},
+  {"id":"3", "name": "C.O.R.E. Dance", "points": 100, "difficulty": "Difficult", "path": "/", "status": "unsolved", "key": "2901"},
+  {"id":"4", "name": "C.O.R.E. is Hungry", "points": 100, "difficulty": "Difficult", "path": "/", "status": "unsolved", "key": "9012"},
+  {
+    "9012": false,
+    "9091": false,
+    "9092": false,
+    "9093": false,
+    "1920": false,
+    "2901": false,
+    "4269": false,
+    "4692": false,
+    "12191": false,
+    "12192": false
+  }
+]

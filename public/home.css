@@ -1,0 +1,38 @@
+body{
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0% 22%;
+}
+
+h1{
+    font-size: 3vw;
+    color: #FF6006;
+}
+
+form{
+    margin-top:210px;
+}
+
+label{
+    font-size: 1.5vw;
+}
+
+input{
+    outline: none;
+    border: 3px solid orangered;
+    width: 30%;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.3vw;
+    margin-bottom: 2%;
+    background-color: lightgray;
+}
+
+input[type=submit]{
+    width: 20%;
+    color: white;
+    background-color: orangered;
+    font-weight: bold;
+    cursor: pointer;
+}
