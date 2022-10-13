@@ -1,9 +1,7 @@
 //? Importing Modules
 const express = require('express');
-const login = require('./login.json');
 const ques = require('./question_status.json');
 const fs = require('fs');
-const crypto = require('crypto');
 const request = require('request');
 const session = require('express-session');
 const flash = require('express-flash');
@@ -11,6 +9,7 @@ const flash = require('express-flash');
 
 //? Global vars
 const questions = ques
+var cred = []
 
 const app = express();
 app.listen(8000);
@@ -30,7 +29,7 @@ app.use("/submit", require('./backend.js'));
 
 //? Links
 app.get('/', function(req, res){
-    if(login.length == 0) {
+    if(cred.length == 0) {
         res.render('home')
     }
     else{
@@ -40,7 +39,7 @@ app.get('/', function(req, res){
 
 
 app.get('/questions', function(req, res){
-    if(login.length != 0) {
+    if(cred.length != 0) {
         var points = 0
         for(let i=0; i<questions.length;i++){
             const q = questions[i]
@@ -61,18 +60,18 @@ app.get('/ques/:id', function(req, res){
     let msg = fs.readFileSync('msg.json', 'utf8');
     msg = JSON.parse(msg)
 
-    if (msg.result !== 'error'){
+    if (msg !== 'error'){
         msg = msg.result
     }
     else{
         msg = ''
     }
 
-    fs.writeFileSync('./msg.json', JSON.stringify('r'), function(err){
+    fs.writeFileSync('./msg.json', JSON.stringify('error'), function(err){
         console.log('saved')
     })
 
-    if(login.length != 0) {
+    if(cred.length != 0) {
         const p = questions[parseInt(req.params.id)].path
         res.render('ques', {path: p, id: req.params.id, msg: msg})
     }
@@ -95,7 +94,10 @@ app.post('/', function(req, res){
         console.log('saved')
     })
 
-        res.redirect('/questions')
+    cred.push(data)
+
+    res.redirect('/questions')
+
 })
 
 app.post('/ques/:id', function(req, res){

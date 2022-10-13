@@ -1,10 +1,7 @@
 const {execSync} = require('child_process');
 const fs = require("fs");
 const dotenv = require('dotenv');
-const flash = require('express-flash');
-const request = require('request');
-const session = require('express-session');
-const ques = require('question_status.json')
+const ques = require('./question_status.json')
 dotenv.config();
 
 const express = require('express')
@@ -16,14 +13,6 @@ router.use(cors())
 
 router.use(express.static(__dirname + '/public'));
 
-
-router.use(session({
-    secret: 'my secret key',
-    resave: false,
-    saveUninitialized: false,
-}));
-
-router.use(flash());
 
 
 function execute(key, program, l) {
